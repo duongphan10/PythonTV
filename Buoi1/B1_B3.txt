@@ -1,0 +1,27 @@
+1) Dễ học và sử dụng
+Python rất dễ học so với các ngôn ngữ lập trình khác. Cú pháp của nó rất đơn giản và giống với ngôn ngữ tiếng Anh. 
+Ví dụ:chương trình hello world bạn chỉ cần gõ print ("Hello World") . Trong khi Java hoặc C cần nhiều dòng.
+
+2) Phân bổ bộ nhớ động
+Nó sẽ tự động cấp phát bộ nhớ. 
+Ví dụ: gán giá trị nguyên 15 cho x, thì chúng ta không cần viết int x = 15. Chỉ cần viết x = 15
+
+3) Ngôn ngữ đa nền tảng
+Chạy như nhau trên các nền tảng khác nhau như Windows, Linux, UNIX và Macintosh, v.v. Vì vậy, viết một chương trình chỉ một lần.
+
+4) Nguồn mở và miễn phí
+Nó được cung cấp miễn phí trên trang web chính thức www.python.org . 
+Bất kỳ ai cũng có thể tải xuống mã nguồn của nó mà không phải trả bất kỳ xu nào.
+
+5) Ngôn ngữ hướng đối tượng
+Nó hỗ trợ kế thừa, đa hình và đóng gói, v.v ... 
+
+6) Có thể mở rộng
+Các ngôn ngữ khác như C / C ++ có thể được sử dụng để biên dịch mã và do đó nó có thể được sử dụng thêm trong mã Python.
+
+7) Thư viện tiêu chuẩn lớn
+Nó cung cấp một loạt các thư viện cho các lĩnh vực khác nhau như học máy, nhà phát triển web và cả viết kịch bản. 
+
+8) Tích hợp
+Nó có thể dễ dàng tích hợp với các ngôn ngữ như C, C ++ và JAVA, v.v.
+ 
