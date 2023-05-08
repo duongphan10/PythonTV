@@ -1,0 +1,7 @@
+Name,age,salary,label
+A,1,12,Yes
+B,3,,No
+C,2,1212,No
+C,,222,Yes
+A,5,32,Yes
+B,4,222,No
